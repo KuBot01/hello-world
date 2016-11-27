@@ -1,2 +1,3 @@
 # hello-world
-Just another repositary
+
+KuBot is a new bot.
